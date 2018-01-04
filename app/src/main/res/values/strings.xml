@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo_fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="emp_name">"Personnel" redirects here. For Military service members, see Military personnel. For the film, see Personnel (film).
+This article is about work. For the Kaiser Chiefs album, see Employment (album). For the short story by L. Sprague de Camp, see Employment (short story).
+
+A construction worker using a jackhammer in Colombia
+Economics
+Supply-demand-right-shift-demand.svg
+A supply and demand diagram, illustrating
+the effects of an increase in demand.
+Index Outline Category
+History Types Classification
+History of economics
+Economic history (academic study)
+Schools of economics
+Microeconomics Macroeconomics Methodology Heterodox economics JEL classification codes
+Concepts Theory Techniques
+Econometrics Economic growth Economic system Experimental economics Mathematical economics Game theory Post-scarcity Market National accounting
+By application
+Agricultural Behavioral Business Computational Cultural Demographic Development Digitization Ecological Education Environmental Evolutionary Expeditionary Geography Health Industrial organization Information International Knowledge Labor Law Managerial Monetary / Financial Natural resource Organizational Personnel Public / Welfare economics Regional Rural Service Social Urban Welfare
+Lists
+Economists
+Publications (journals)
+Emblem-money.svg Business and economics portal
+v t e
+Part of a series on
+Organized labor
+
+Labor movement[show]
+Labor rights[show]
+Trade unions[show]
+Strike action[show]
+Labor parties[show]
+Academic disciplines[show]
+v t e
+Employment is a relationship between two parties, usually based on a contract where work is paid for, where one party, which may be a corporation, for profit, not-for-profit organization, co-operative or other entity is the employer and the other is the employee.[1] Employees work in return for payment, which may be in the form of an hourly wage, by piecework or an annual salary, depending on the type of work an employee does or which sector she or he is working in. Employees in some fields or sectors may receive gratuities, bonus payment or stock options. In some types of employment, employees may receive benefits in addition to payment. Benefits can include health insurance, housing, disability insurance or use of a gym. Employment is typically governed by employment laws or regulations or legal contracts.Employer and managerial control within an organization rests at many levels and has important implications for staff and productivity alike, with control forming the fundamental link between desired outcomes and actual processes. Employers must balance interests such as decreasing wage constraints with a maximization of labor productivity in order to achieve a profitable and productive employment relationship.
+
+Finding employees or employment[edit]
+The main ways for employers to find workers and for people to find employers are via jobs listings in newspapers (via classified advertising) and online, also called job boards. Employers and job seekers also often find each other via professional recruitment consultants which receive a commission from the employer to find, screen and select suitable candidates. However, a study has shown that such consultants may not be reliable when they fail to use established principles in selecting employees.[1] A more traditional approach is with a "Help Wanted" sign in the establishment (usually hung on a window or door[4] or placed on a store counter).[3] Evaluating different employees can be quite laborious but setting up different techniques to analyze their skill to measure their talents within the field can be best through assessments.[5] Employer and potential employee commonly take the additional step of getting to know each other through the process of job interview.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_admin">AdminActivity</string>
+
+</resources>

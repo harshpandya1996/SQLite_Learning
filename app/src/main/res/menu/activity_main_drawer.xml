@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_services"
+            android:icon="@drawable/ic_build_black"
+            android:title="Services" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/ic_dvr_black"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_signup"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Signup" />
+        <item
+            android:id="@+id/nav_forget_password"
+            android:icon="@drawable/ic_mood_bad_black_24dp"
+            android:title="Forget Password" />
+        <item
+            android:id="@+id/nav_contactus"
+            android:icon="@drawable/ic_location_on_black"
+            android:title="Contact Us" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
